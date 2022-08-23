@@ -1,64 +1,54 @@
 
 # Ksendzov Igor
 
----
-
 Location: Russia, Moscow region  
 Phone nubmer: 89856643447  
 github: github.com/c4llv07e
 
----
 
 ## Education
 
-2016-2022
-: **Moscow Programming school**
-:  _Major: Informatics_
-:  _Moscow region, Russia_
-
----
+2016-2022 **Moscow Programming school**  
+* _Major: Informatics_  
+* _Location: Moscow region, Russia_
 
 ## Job experience
 
 None
 
----
-
 ## Technical exprerience
 
-### Main development languages
+#### Main development languages
 
 * C/C++
 * Python
 
-### Scripting languages
+#### Scripting languages
 
 * Bash
 * Lua
 
-### System managment
+#### System managment
 
 * Linux
 * OpenBSD
 * Docker
 
-### Version control systems
+#### Version control systems
 
 * git
 
-### DevOps
+#### DevOps
 
 * github actions
 
-### Information security
+#### Information security
 
 * Cryptography algorithms
 * OpenSSH
 * OpenPGP
 * Mesh networks
 * Reverse engineering
-
----
 
 ## Languages
 
