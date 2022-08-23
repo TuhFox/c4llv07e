@@ -46,11 +46,11 @@ None
 
 * git
 
-### Dev Ops
+### DevOps
 
 * github actions
 
-### information security
+### Information security
 
 * Cryptography algorithms
 * OpenSSH
