@@ -3,11 +3,9 @@
 
 ---
 
--------------------     ----------------------------
-Russia                             kseandi@gmail.com
-Moscow                                   89856643447
-                                 github.com/c4llv07e
--------------------     ----------------------------
+Location: Russia, Moscow region  
+Phone nubmer: 89856643447  
+github: github.com/c4llv07e
 
 ---
 
